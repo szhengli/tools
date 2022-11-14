@@ -1,3 +1,3 @@
-module gitee.com/opre/tools
+module github.com/szhengli/opre/tools
 
 go 1.19
